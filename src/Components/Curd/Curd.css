@@ -1,0 +1,57 @@
+.tital{
+    text-align: center;
+    background-color: cadetblue;
+    color: blanchedalmond;
+}
+th{
+    background-color: aquamarine;
+    margin: 2px;
+}
+
+td{
+    /* background-color: grey; */
+    /* color: aqua; */
+    margin: 3px;
+    border: saddlebrown 5px;
+    font-size: 1.3rem;
+    padding: 10px;
+}
+.input{
+
+    height: 40px;
+    width: 180px;
+    font-size: 1.5rem;
+    margin-right:50px ;
+    margin-left:10px ;
+
+
+}
+.btun{
+
+    height: 40px;
+    width: 80px;
+    font-size: 1.5rem;
+    margin-right:50px ;
+    margin-left:200px ;
+    background-color: lightcoral;
+    border: none;
+    border-radius: 20px;
+    color: white;
+
+
+}
+.button{
+border-radius: 20px;
+height: 3rem;
+width: 6rem;
+color: blue;
+border: none;
+}
+.butt{
+
+    color:crimson;
+    border: none; 
+}
+setName{
+    font-size: 2rem;
+}
